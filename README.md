@@ -108,7 +108,7 @@ test.
 Okay, now, lets say we wanted to make our grilled cheese a little more exciting
 and add a couple of cheeses, `cheddar`, `mozzarella`, and `pepper jack`.
 
-To pass the second test, inside the `li` of `4 slices of cheese`, add a nested
+To pass the second test, inside the `li` of `4 slices cheese`, add a nested
 unordered list that lists out the three types of cheese.
 
 If your first two tests are passing, great! It's time to talk about another type
